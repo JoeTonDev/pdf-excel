@@ -1,1 +1,1 @@
-A Python script to convert Exel file to PDF format.
+A Python script to convert Exel files into PDF format.
